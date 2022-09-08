@@ -38,6 +38,7 @@ function check(ques ,ans){
     else{
         console.log("You're Wrong\n");
     }
+    console.log("Live Score: "+score+"\n")
 }
 
 function askques(){
