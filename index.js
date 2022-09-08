@@ -45,5 +45,10 @@ function askques(){
         check(questions[i].ques,questions[i].ans);
     }
 }
+
+function finalscore(){
+    console.log("\nYou're Final Score is: "+score);
+}
 welcome();
 askques();
+finalscore();
