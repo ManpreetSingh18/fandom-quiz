@@ -1,2 +1,2 @@
 # fandom quiz
- In this quiz we will ask basic question about india and display final score
+ In this quiz we will ask basic MCQ question about india  and display final score
